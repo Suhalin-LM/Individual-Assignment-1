@@ -1,0 +1,27 @@
+Email,Stock Ticker,Average Closing Price,Percentage Change,Highest Closing Price,Highest Price Date,Lowest Closing Price,Lowest Price Date
+su@gmail.com,AAPL,"Ticker
+AAPL    170.65687
+dtype: float64","Ticker
+AAPL    51.874948
+dtype: float64","Ticker
+AAPL    196.449997
+dtype: float64","Ticker
+AAPL   2023-07-31
+dtype: datetime64[ns]","Ticker
+AAPL    125.019997
+dtype: float64","Ticker
+AAPL   2023-01-05
+dtype: datetime64[ns]"
+su@gmail.com,AAPL,"Ticker
+AAPL    202.654502
+dtype: float64","Ticker
+AAPL    24.100604
+dtype: float64","Ticker
+AAPL    237.330002
+dtype: float64","Ticker
+AAPL   2024-11-29
+dtype: datetime64[ns]","Ticker
+AAPL    165.0
+dtype: float64","Ticker
+AAPL   2024-04-19
+dtype: datetime64[ns]"
